@@ -1,7 +1,7 @@
 
 body {
 	
-	background-image: linear-gradient(white, #e1c699, #e1c699, #e1c699, #e1c699, #653221);
+		background-image: linear-gradient(#5a3825, #3d2314);
 
 }
 
@@ -410,7 +410,7 @@ $bootstrap-xl: 1200px;
 
 
 .willkommen {
-	background-color: #ffc107;
+	background-color: #670A0A;
 	color: white;
 	padding: 10px;
 	text-align: left;
@@ -439,6 +439,16 @@ $bootstrap-xl: 1200px;
 	padding: 10px;
 	border-radius: 30px;
 
+}
+
+.weinrot {
+	background-color: #670A0A
+}
+
+
+.iconkontakt {
+	margin: 5px;
+	padding-top: 5px;
 }
 
 
